@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
-## Your short description
+## A short description about me:
 - 🔭 I’m currently working on - ❔❔❔❔
 - 🌱 I’m currently learning - ❔❔❔❔
 - 👯 I’m looking to collaborate with - ❔❔❔❔
