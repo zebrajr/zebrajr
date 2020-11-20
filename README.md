@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on
     - ###### FiveM RP Server (private)
     - [Torn Farm Bot](https://github.com/zebrajr/tornfarm) - porting to Docker
-- 🌱 I’m currently learning ##### MachineLearning with TensorFlow
+- 🌱 I’m currently learning
+    - MachineLearning with TensorFlow
 
 [![Carlos Github Stats](https://github-readme-stats.vercel.app/api?username=zebrajr&count_private=true&include_all_commits=true&theme=radical)](https://github.com/zebrajr)
 ## Connect with me:
