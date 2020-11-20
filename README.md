@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## A short description about me:
 - 🔭 I’m currently working on
-    - ###### FiveM RP Server (private)
+    - FiveM RP Server (private)
     - [Torn Farm Bot](https://github.com/zebrajr/tornfarm) - porting to Docker
 - 🌱 I’m currently learning
     - MachineLearning with TensorFlow
