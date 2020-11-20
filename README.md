@@ -1,5 +1,4 @@
-### Hi there, I'm Carlos 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Carlos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **zebrajr/zebrajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +24,7 @@ Here are some ideas to get you started:
     - ###### FiveM RP Server (private)
     - [Torn Farm Bot](https://github.com/zebrajr/tornfarm) - porting to Docker
 - 🌱 I’m currently learning ###### MachineLearning with TensorFlow
+
 [![Carlos Github Stats](https://github-readme-stats.vercel.app/api?username=zebrajr&count_private=true&include_all_commits=true&theme=radical)](https://github.com/zebrajr)
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
