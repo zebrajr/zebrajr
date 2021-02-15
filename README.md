@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 <!-- Also feel free to update second URL to any URL -->
 
 
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+<!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 ## A short description about me:
+- 🙌 My proudest repos:
+  - [SysAdmin](https://github.com/zebrajr/sysadmin)
+  - [HomeLab](https://github.com/zebrajr/HomeLab)
 - 🔭 I’m currently working on
     - FiveM RP Server (private)
     - [Torn Farm Bot](https://github.com/zebrajr/tornfarm) - porting to Docker
