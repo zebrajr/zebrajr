@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 🙌 My proudest repos:
   - [SysAdmin](https://github.com/zebrajr/sysadmin)
   - [HomeLab](https://github.com/zebrajr/HomeLab)
+  - [TornStocksBot](https://github.com/zebrajr/torn-stocks)
+  - [TornFarm](https://github.com/zebrajr/tornfarm)
 - 🔭 I’m currently working on
     - FiveM RP Server (private)
     - [Torn Farm Bot](https://github.com/zebrajr/tornfarm) - porting to Docker
