@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - [HomeLab](https://github.com/zebrajr/HomeLab)
   - [TornStocksBot](https://github.com/zebrajr/torn-stocks)
   - [TornFarm](https://github.com/zebrajr/tornfarm)
-  - [IMDBScrpper](https://github.com/zebrajr/imdbscrapper)
+  - [IMDBScrapper](https://github.com/zebrajr/imdbscrapper)
 - 🔭 I’m currently working on
     - FiveM RP Server (private)
     - [Torn Farm Bot](https://github.com/zebrajr/tornfarm) - porting to Docker
