@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 - 🙌 My proudest repos:
   - [SysAdmin](https://github.com/zebrajr/sysadmin)
   - [HomeLab](https://github.com/zebrajr/HomeLab)
-  - [TornStocksBot](https://github.com/zebrajr/torn-stocks)
   - [TornFarm](https://github.com/zebrajr/tornfarm)
   - [IMDBScrapper](https://github.com/zebrajr/imdbscrapper)
-- 🔭 I’m currently working on
-    - FiveM RP Server (private)
-    - [Torn Farm Bot](https://github.com/zebrajr/tornfarm) - porting to Docker
+  - [LAMPinDocker](https://github.com/zebrajr/LAMPinDocker)
+- 🔭 Last Tools added to the Toolbox
+    - Ansible
+    - Docker & Docker-Compose
 - 🌱 I’m currently learning
     - MachineLearning with TensorFlow
 
