@@ -30,6 +30,7 @@ Here are some ideas to get you started:
     - Docker & Docker-Compose
 - 🌱 I’m currently learning
     - MachineLearning with TensorFlow
+    - Getting Arch to an usable state
 
 [![Carlos Github Stats](https://github-readme-stats.vercel.app/api?username=zebrajr&count_private=true&include_all_commits=true&theme=radical)](https://github.com/zebrajr)
 ## Connect with me:
