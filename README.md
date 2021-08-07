@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning
     - MachineLearning with TensorFlow
     - Getting Arch to an usable state
+    - MERN Stack
 
 [![Carlos Github Stats](https://github-readme-stats.vercel.app/api?username=zebrajr&count_private=true&show_icons=true&theme=dark&include_all_commits=false)](https://github.com/zebrajr)
 ## Connect with me:
