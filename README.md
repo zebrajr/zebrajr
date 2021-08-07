@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     - MachineLearning with TensorFlow
     - Getting Arch to an usable state
 
-[![Carlos Github Stats](https://github-readme-stats.vercel.app/api?username=zebrajr&count_private=true&include_all_commits=true&theme=radical)](https://github.com/zebrajr)
+[![Carlos Github Stats](https://github-readme-stats.vercel.app/api?username=zebrajr&count_private=true&show_icons=true&theme=dark&include_all_commits=false)](https://github.com/zebrajr)
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
