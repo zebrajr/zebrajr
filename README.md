@@ -30,8 +30,8 @@ Here are some ideas to get you started:
     - Docker & Docker-Compose
 - 🌱 I’m currently learning
     - MachineLearning with TensorFlow
-    - Getting Arch to an usable state
-    - MERN Stack
+    - Getting [Arch](https://github.com/zebrajr/HomeLab/tree/main/archDaily) to an usable state
+    - [MERN](https://github.com/zebrajr/MERNinDocker) Stack
 
 [![Carlos Github Stats](https://github-readme-stats.vercel.app/api?username=zebrajr&count_private=true&show_icons=true&theme=dark&include_all_commits=false)](https://github.com/zebrajr)
 ## Connect with me:
