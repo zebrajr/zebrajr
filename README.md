@@ -19,19 +19,33 @@ Here are some ideas to get you started:
 
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 ## A short description about me:
-- 🙌 My proudest repos:
-  - [SysAdmin](https://github.com/zebrajr/sysadmin) <img src="https://img.shields.io/github/repo-size/zebrajr/sysadmin?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/sysadmin?logo=files">
-  - [HomeLab](https://github.com/zebrajr/HomeLab) <img src="https://img.shields.io/github/repo-size/zebrajr/homelab?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/homelab?logo=files">
-  - [TornFarm](https://github.com/zebrajr/tornfarm) <img src="https://img.shields.io/github/repo-size/zebrajr/tornfarm?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/tornfarm?logo=files">
-  - [IMDBScrapper](https://github.com/zebrajr/imdbscrapper) <img src="https://img.shields.io/github/repo-size/zebrajr/imdbscrapper?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/imdbscrapper?logo=files">
-  - [LAMPinDocker](https://github.com/zebrajr/LAMPinDocker) <img src="https://img.shields.io/github/repo-size/zebrajr/lampindocker?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/lampindocker?logo=files">
-- 🔭 Last Tools added to the Toolbox
-    - Ansible
-    - Docker & Docker-Compose
-- 🌱 I’m currently learning
-    - MachineLearning with TensorFlow
-    - Getting [Arch](https://github.com/zebrajr/HomeLab/tree/main/archDaily) to an usable state
-    - [MERN](https://github.com/zebrajr/MERNinDocker) Stack
+### 🙌 My proudest repos:
+  - [SysAdmin](https://github.com/zebrajr/sysadmin)
+<br><img src="https://img.shields.io/github/repo-size/zebrajr/sysadmin?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/sysadmin?logo=files">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/sysadmin?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+  - [HomeLab](https://github.com/zebrajr/HomeLab)
+<br><img src="https://img.shields.io/github/repo-size/zebrajr/homelab?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/homelab?logo=files">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/homelab?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+  - [TornFarm](https://github.com/zebrajr/tornfarm)
+<br><img src="https://img.shields.io/github/repo-size/zebrajr/tornfarm?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/tornfarm?logo=files">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/tornfarm?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+  - [IMDBScrapper](https://github.com/zebrajr/imdbscrapper)
+<br><img src="https://img.shields.io/github/repo-size/zebrajr/imdbscrapper?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/imdbscrapper?logo=files">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/imdbscrapper?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+  - [LAMPinDocker](https://github.com/zebrajr/LAMPinDocker)
+<br><img src="https://img.shields.io/github/repo-size/zebrajr/lampindocker?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/lampindocker?logo=files">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/lampindocker?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+
+
+### 🔭 Last Tools added to the Toolbox
+  - Ansible
+  - Docker & Docker-Compose
+
+
+### 🌱 I’m currently learning
+  - MachineLearning with TensorFlow
+  - Getting [Arch](https://github.com/zebrajr/HomeLab/tree/main/archDaily) to an usable state
+  - [MERN](https://github.com/zebrajr/MERNinDocker) Stack
 
 [![Carlos Github Stats](https://github-readme-stats.vercel.app/api?username=zebrajr&count_private=true&show_icons=true&theme=dark&include_all_commits=false)](https://github.com/zebrajr)
 ## Connect with me:
