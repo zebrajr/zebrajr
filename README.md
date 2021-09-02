@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 ## A short description about me:
 - 🙌 My proudest repos:
-  - [SysAdmin](https://github.com/zebrajr/sysadmin)
-  - [HomeLab](https://github.com/zebrajr/HomeLab)
-  - [TornFarm](https://github.com/zebrajr/tornfarm)
-  - [IMDBScrapper](https://github.com/zebrajr/imdbscrapper)
-  - [LAMPinDocker](https://github.com/zebrajr/LAMPinDocker)
+  - [SysAdmin](https://github.com/zebrajr/sysadmin) <img src="https://img.shields.io/github/repo-size/zebrajr/sysadmin?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/sysadmin?logo=files">
+  - [HomeLab](https://github.com/zebrajr/HomeLab) <img src="https://img.shields.io/github/repo-size/zebrajr/homelab?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/homelab?logo=files">
+  - [TornFarm](https://github.com/zebrajr/tornfarm) <img src="https://img.shields.io/github/repo-size/zebrajr/tornfarm?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/tornfarm?logo=files">
+  - [IMDBScrapper](https://github.com/zebrajr/imdbscrapper) <img src="https://img.shields.io/github/repo-size/zebrajr/imdbscrapper?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/imdbscrapper?logo=files">
+  - [LAMPinDocker](https://github.com/zebrajr/LAMPinDocker) <img src="https://img.shields.io/github/repo-size/zebrajr/lampindocker?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/lampindocker?logo=files">
 - 🔭 Last Tools added to the Toolbox
     - Ansible
     - Docker & Docker-Compose
