@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning
   - MachineLearning with TensorFlow
+  - [Test-Driven Development in a CD/CI](https://github.com/zebrajr/TTDwithCICD)
   - Getting [Arch](https://github.com/zebrajr/HomeLab/tree/main/archDaily) to an usable state
   - [MERN](https://github.com/zebrajr/MERNinDocker) Stack
 
