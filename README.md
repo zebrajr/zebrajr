@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   - MachineLearning with TensorFlow
   - [Test-Driven Development in a CD/CI](https://github.com/zebrajr/TTDwithCICD)
   - Getting [Arch](https://github.com/zebrajr/HomeLab/tree/main/archDaily) to an usable state
-  - [MERN](https://github.com/zebrajr/MERNinDocker) Stack
+  - [MERN](https://github.com/zebrajr/MERNinDocker) Stack - Specifically Node.js and React
 
 [![Carlos Github Stats](https://github-readme-stats.vercel.app/api?username=zebrajr&count_private=true&show_icons=true&theme=dark&include_all_commits=false)](https://github.com/zebrajr)
 ## Connect with me:
