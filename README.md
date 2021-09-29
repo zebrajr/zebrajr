@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   - [Test-Driven Development in a CD/CI](https://github.com/zebrajr/TTDwithCICD)
   - Getting [Arch](https://github.com/zebrajr/HomeLab/tree/main/archDaily) to an usable state
   - [MERN](https://github.com/zebrajr/MERNinDocker) Stack - Specifically Node.js and React
+  - OpenCV
 
 [![Carlos Github Stats](https://github-readme-stats.vercel.app/api?username=zebrajr&count_private=true&show_icons=true&theme=dark&include_all_commits=false)](https://github.com/zebrajr)
 ## Connect with me:
@@ -59,3 +60,6 @@ Here are some ideas to get you started:
 [website]: https://carlossousa.tech
 [twitter]: https://twitter.com/_CarlosSousa_
 <!-- [linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/ -->
+
+###### Proud Co-Founder of
+[<img alt="silentgreen.gmbh" width="90" src="https://silentgreen.gmbh/rsc/logoSchwarz.png" />](https://silentgreen.gmbh)
