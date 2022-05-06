@@ -22,19 +22,19 @@ Here are some ideas to get you started:
 ### 🙌 My proudest repos:
   - [SysAdmin](https://github.com/zebrajr/sysadmin)
 <br><img src="https://img.shields.io/github/repo-size/zebrajr/sysadmin?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/sysadmin?logo=files">
-<br><img src="https://img.shields.io/github/last-commit/zebrajr/sysadmin?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/sysadmin?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2022">
   - [HomeLab](https://github.com/zebrajr/HomeLab)
 <br><img src="https://img.shields.io/github/repo-size/zebrajr/homelab?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/homelab?logo=files">
-<br><img src="https://img.shields.io/github/last-commit/zebrajr/homelab?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/homelab?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2022">
   - [TornFarm](https://github.com/zebrajr/tornfarm)
 <br><img src="https://img.shields.io/github/repo-size/zebrajr/tornfarm?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/tornfarm?logo=files">
-<br><img src="https://img.shields.io/github/last-commit/zebrajr/tornfarm?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/tornfarm?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2022">
   - [IMDBScrapper](https://github.com/zebrajr/imdbscrapper)
 <br><img src="https://img.shields.io/github/repo-size/zebrajr/imdbscrapper?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/imdbscrapper?logo=files">
-<br><img src="https://img.shields.io/github/last-commit/zebrajr/imdbscrapper?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/imdbscrapper?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2022">
   - [LAMPinDocker](https://github.com/zebrajr/LAMPinDocker)
 <br><img src="https://img.shields.io/github/repo-size/zebrajr/lampindocker?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/lampindocker?logo=files">
-<br><img src="https://img.shields.io/github/last-commit/zebrajr/lampindocker?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/lampindocker?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2022">
 
 
 ### 🔭 Last Tools added to the Toolbox
