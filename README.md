@@ -1,5 +1,95 @@
 ### Hi there, I'm Carlos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+### Things I did you might enjoy
+| Name                   | Description | Links                                                                                      |
+| ---------------------- | ----------- | ------------------------------------------------------------------------------------------ |
+| Docker Stack Backupper |             | [Souce](https://github.com/zebrajr/docker-stack-backupper) / Live                          |
+| GitHub Backupper       |             | [Souce](https://github.com/zebrajr/github-backupper) /  Live                               |
+| HomeLab                |             | [Souce](https://github.com/zebrajr/HomeLab) /  Live                                        |
+| LAMP in Docker         |             | [Souce](https://github.com/zebrajr/LAMPinDocker) / Live                                    |
+| nginx cdn in docker    |             | [Souce](https://github.com/zebrajr/nginx-docker-cdn) / Live                                |
+| React Tools            |             | [Souce](https://github.com/zebrajr/ReactoCalc) / [Live](https://calc.carlossousa.tech/)    |
+| SysAdmin               |             | [Souce](https://github.com/zebrajr/sysadmin) / Live                                        |
+| Travel Tracer          |             | [Souce](https://github.com/zebrajr/traveltracer) / [Live](https://travel.carlossousa.tech) |
+| Website                |             | [Souce](https://github.com/zebrajr/website) / [Live](https://carlossousa.tech)             |
+
+
+### Things I'm not half bad at
+
+If you assume Beginner > Intermediate > Proficient > Expert
+
+- **Coding** 👨‍💻
+  - Javascript: Intermediate
+  - Go: Intermediate
+  - C/C++: Beginner
+  - Python: Proficient
+- **Technologies** 🖥️
+  - 
+
+
+
+<!-- **zebrajr/zebrajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate with - ❔❔❔❔
+- 💬 Ask me about - ❔❔❔❔
+- 🥅 2020 Goal - ❔❔❔❔
+- ⚡ Fun fact - ❔❔❔❔
+❔❔❔❔ means username in below README.md
+<!-- Also feel free to update second URL to any URL -->
+
+
+
+<!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
+## A short description about me:
+### 🙌 My proudest repos:
+  - [SysAdmin](https://github.com/zebrajr/sysadmin)
+<br><img src="https://img.shields.io/github/repo-size/zebrajr/sysadmin?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/sysadmin?logo=files">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/sysadmin?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+  - [HomeLab](https://github.com/zebrajr/HomeLab)
+<br><img src="https://img.shields.io/github/repo-size/zebrajr/homelab?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/homelab?logo=files">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/homelab?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+  - [TornFarm](https://github.com/zebrajr/tornfarm)
+<br><img src="https://img.shields.io/github/repo-size/zebrajr/tornfarm?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/tornfarm?logo=files">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/tornfarm?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+  - [IMDBScrapper](https://github.com/zebrajr/imdbscrapper)
+<br><img src="https://img.shields.io/github/repo-size/zebrajr/imdbscrapper?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/imdbscrapper?logo=files">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/imdbscrapper?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+  - [LAMPinDocker](https://github.com/zebrajr/LAMPinDocker)
+<br><img src="https://img.shields.io/github/repo-size/zebrajr/lampindocker?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/lampindocker?logo=files">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/lampindocker?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
+
+
+### 🔭 Last Tools added to the Toolbox
+  - Ansible
+  - Docker & Docker-Compose
+
+
+### 🌱 I’m currently learning
+  - MachineLearning with TensorFlow
+  - [Test-Driven Development in a CD/CI](https://github.com/zebrajr/TTDwithCICD)
+  - Getting [Arch](https://github.com/zebrajr/HomeLab/tree/main/systems/archDaily) to an usable state
+  - [MERN](https://github.com/zebrajr/MERNinDocker) Stack - Specifically Node.js and React
+  - OpenCV
+
+
+<!-- This section you create this variables that are used above -->
+[website]: https://carlossousa.tech
+[twitter]: https://twitter.com/_CarlosSousa_
+
+
+
+### Hi there, I'm Carlos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <!-- **zebrajr/zebrajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,19 +112,19 @@ Here are some ideas to get you started:
 ### 🙌 My proudest repos:
   - [SysAdmin](https://github.com/zebrajr/sysadmin)
 <br><img src="https://img.shields.io/github/repo-size/zebrajr/sysadmin?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/sysadmin?logo=files">
-<br><img src="https://img.shields.io/github/last-commit/zebrajr/sysadmin?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2022">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/sysadmin?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
   - [HomeLab](https://github.com/zebrajr/HomeLab)
 <br><img src="https://img.shields.io/github/repo-size/zebrajr/homelab?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/homelab?logo=files">
-<br><img src="https://img.shields.io/github/last-commit/zebrajr/homelab?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2022">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/homelab?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
   - [TornFarm](https://github.com/zebrajr/tornfarm)
 <br><img src="https://img.shields.io/github/repo-size/zebrajr/tornfarm?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/tornfarm?logo=files">
-<br><img src="https://img.shields.io/github/last-commit/zebrajr/tornfarm?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2022">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/tornfarm?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
   - [IMDBScrapper](https://github.com/zebrajr/imdbscrapper)
 <br><img src="https://img.shields.io/github/repo-size/zebrajr/imdbscrapper?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/imdbscrapper?logo=files">
-<br><img src="https://img.shields.io/github/last-commit/zebrajr/imdbscrapper?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2022">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/imdbscrapper?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
   - [LAMPinDocker](https://github.com/zebrajr/LAMPinDocker)
 <br><img src="https://img.shields.io/github/repo-size/zebrajr/lampindocker?logo=files"> <img src="https://img.shields.io/tokei/lines/github/zebrajr/lampindocker?logo=files">
-<br><img src="https://img.shields.io/github/last-commit/zebrajr/lampindocker?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2022">
+<br><img src="https://img.shields.io/github/last-commit/zebrajr/lampindocker?logo=gitfs"><img src="https://img.shields.io/maintenance/yes/2021">
 
 
 ### 🔭 Last Tools added to the Toolbox
