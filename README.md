@@ -42,6 +42,7 @@ If you assume Beginner > Intermediate > Proficient > Expert
   - **SQLite**: Proficient
   - **VMWare**: Proficient
 - **Frameworks & Software** 🖽
+  - **Django**: Intermediate
   - **Node.js**: Intermediate
   - **OpenCV**: Intermediate
   - **PyTorch**: Intermediate
