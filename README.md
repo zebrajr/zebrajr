@@ -27,11 +27,13 @@ If you assume Beginner > Intermediate > Proficient > Expert
   - **C/C++**: Beginner
   - **Go**: Intermediate
   - **Javascript**: Intermediate
+  - **PHP**: Proficient
   - **Powershell**: Proficient
   - **Python**: Proficient
 - **Technologies** 🖥️
   - **Ansible**: Proficient
   - **Docker**: Proficient
+  - **Git**: Proficient
   - **KVM/QEMU**: Proficient
   - **Linux**: Proficient
   - **MariaDB**: Proficient
