@@ -34,18 +34,18 @@ If you assume Beginner > Intermediate > Proficient > Expert
   - **Docker**: Proficient
   - **KVM/QEMU**: Proficient
   - **Linux**: Proficient
-  - **VMWare**: Proficient
-- **Frameworks & Software** 🖽
   - **MariaDB**: Proficient
   - **MongoDB**: Intermediate
   - **MSSQL**: Proficient
   - **MySQL**: Proficient
+  - **SQLite**: Proficient
+  - **VMWare**: Proficient
+- **Frameworks & Software** 🖽
   - **Node.js**: Intermediate
   - **OpenCV**: Intermediate
   - **PostgreSQL**: Proficient
   - **PyTorch**: Intermediate
   - **React**: Intermediate
-  - **SQLite**: Proficient
 - **Tech Related** 📟
   - **DevOps**: Intermediate
   - **System Administrator**: Proficient
