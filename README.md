@@ -38,12 +38,12 @@ If you assume Beginner > Intermediate > Proficient > Expert
   - **MongoDB**: Intermediate
   - **MSSQL**: Proficient
   - **MySQL**: Proficient
+  - **PostgreSQL**: Proficient
   - **SQLite**: Proficient
   - **VMWare**: Proficient
 - **Frameworks & Software** 🖽
   - **Node.js**: Intermediate
   - **OpenCV**: Intermediate
-  - **PostgreSQL**: Proficient
   - **PyTorch**: Intermediate
   - **React**: Intermediate
 - **Tech Related** 📟
